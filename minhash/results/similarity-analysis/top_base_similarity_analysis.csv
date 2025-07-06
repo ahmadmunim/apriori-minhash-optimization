@@ -1,0 +1,11 @@
+Review A,Review B,Shared Tokens,Shared Token Count,Avg Shared Token Weight,Top Weighted Shared Tokens
+501,735,[],0,0.0,
+67,433,"['looks', 'went', 'retailer']",3,0.95,looks (0.95); went (0.95); retailer (0.95)
+213,383,"['delicate', 'like', 'top']",3,1.35,delicate (1.35); like (1.35); top (1.35)
+597,655,[],0,0.0,
+320,496,"['beautiful', 'tts', 'fits', 'black']",4,1.5,beautiful (1.5); tts (1.5); fits (1.5); black (1.5)
+19,730,"['love', 'dress', 'length', 'look', 'top']",5,1.05,love (1.05); dress (1.05); length (1.05); look (1.05); top (1.05)
+179,275,['like'],1,0.8,like (0.8)
+838,998,[],0,0.0,
+766,877,"['around', 'colors', 'fit', 'dont']",4,1.5,around (1.5); colors (1.5); fit (1.5); dont (1.5)
+403,838,"['dress', 'petite', 'would', 'top', 'surprised', 'ordered']",6,1.2,dress (1.2); petite (1.2); would (1.2); top (1.2); surprised (1.2)

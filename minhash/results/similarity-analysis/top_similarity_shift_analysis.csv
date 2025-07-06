@@ -1,0 +1,11 @@
+Review A,Review B,Shared Tokens,Shared Token Count,Avg Shared Token Weight,Top Weighted Shared Tokens
+609,659,['color'],1,1.5,color (1.5)
+149,854,"['design', 'without', 'back', 'know', 'could', 'dont']",6,0.9,design (0.9); without (0.9); back (0.9); know (0.9); could (0.9)
+476,925,['enough'],1,1.35,enough (1.35)
+41,805,['size'],1,1.35,size (1.35)
+392,709,['fit'],1,0.9,fit (0.9)
+40,602,[],0,0.0,
+257,325,"['still', 'love', 'however']",3,1.35,still (1.35); love (1.35); however (1.35)
+19,730,"['love', 'dress', 'length', 'look', 'top']",5,1.05,love (1.05); dress (1.05); length (1.05); look (1.05); top (1.05)
+187,768,"['especially', 'top']",2,0.95,especially (0.95); top (0.95)
+760,789,"['thin', 'size', 'color']",3,0.9,thin (0.9); size (0.9); color (0.9)
